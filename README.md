@@ -1,7 +1,7 @@
-# ICS20-template-HTML
+# ICS20-Assignment-02-JS
 
-[![GitHub's Super Linter](https://github.com/marshall-demars/ICS20-UnitX-YY-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/marshall-demars/ICS20-UnitX-YY-HTML/actions)
+[![GitHub's Super Linter](https://github.com/marshall-demars/ICS20-Assignment-02-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/marshall-demars/ICS20-Assignment-02-JS/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/marshall-demars/ICS20-UnitX-YY-HTML)](https://repl.it/github/marshall-demars/ICS20-UnitX-YY-HTML)
+[![Run on Repl.it](https://repl.it/badge/github/marshall-demars/ICS20-Assignment-02-JS)](https://repl.it/github/marshall-demars/ICS20-Assignment-02-JS)
 
-This site can be found at: [https://marshall-demars.github.io/ICS20-UnitX-YY-HTML](https://marshall-demars.github.io/ICS20-UnitX-YY-HTML)
+This site can be found at: [https://marshall-demars.github.io/ICS20-Assignment-02-JS](https://marshall-demars.github.io/ICS20-Assignment-02-JS)
