@@ -3,13 +3,14 @@
 // This file contains the JS functions for index.html
 
 'use strict'
+
 /**
  * This function calculates area of a rhombus.
  */
 function calculate () {
   // input
-  const base = parseInt(document.getElementById('base-of-rhombus').value)
-  const height = parseInt(document.getElementById('height-of-rhombus').value)
+  const base = parseFloat(document.getElementById('base-of-rhombus').value)
+  const height = parseFloat(document.getElementById('height-of-rhombus').value)
 
   // process
   const area = base * height
